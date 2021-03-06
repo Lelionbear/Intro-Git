@@ -25,6 +25,7 @@
 		254DDA3325F3731700B0D42C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		254DDA3525F3731700B0D42C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		254DDA3C25F3738F00B0D42C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		254DDA4725F410A800B0D42C /* git-quiz.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "git-quiz.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				254DDA3C25F3738F00B0D42C /* README.md */,
+				254DDA4725F410A800B0D42C /* git-quiz.md */,
 				254DDA2625F3731100B0D42C /* Intro-Git */,
 				254DDA2525F3731100B0D42C /* Products */,
 			);
