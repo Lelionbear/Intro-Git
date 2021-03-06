@@ -2,5 +2,5 @@
 
 | Author | GitHub |
 |----|----|
-| Aditya | adityanz |
 | Arturo | Lelionbear |
+| Aditya | adityanz |
